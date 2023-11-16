@@ -1,0 +1,15 @@
+[submodule "plugins/uosc"]
+  path = plugins/uosc
+  url = https://github.com/tomasklaen/uosc
+  branch = main
+  shallow = true
+[submodule "plugins/mpv-cut"]
+  path = plugins/mpv-cut
+  url = https://github.com/familyfriendlymikey/mpv-cut.git
+  branch = release
+  shallow = true
+[submodule "plugins/thumbfast"]
+  path = plugins/thumbfast
+  url = https://github.com/po5/thumbfast
+  branch = master
+  shallow = true
