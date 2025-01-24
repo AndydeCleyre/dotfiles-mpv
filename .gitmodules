@@ -6,7 +6,7 @@
 [submodule "plugins/mpv-cut"]
   path = plugins/mpv-cut
   url = https://github.com/familyfriendlymikey/mpv-cut.git
-  branch = release
+  branch = main
   shallow = true
 [submodule "plugins/thumbfast"]
   path = plugins/thumbfast
